@@ -1,0 +1,101 @@
+Customer ID,First Name,Last Name,Gender,Age,Region,Job Classification,Date Joined,Balance
+100000001,Simon,Walsh,Male,21,England,White Collar,5-Jan-15,113810.15
+400000002,,,Female,34,Northern Ireland,Blue Collar,6-Jan-15,36919.73
+100000003,Liam,,Male,0,England,White Collar,7-Jan-15,101536.83
+300000004,Trevor,,Male,32,Wales,White Collar,8-Jan-15,1421.52
+100000005,Deirdre,Pullman,,38,England,Blue Collar,9-Jan-15,35639.79
+300000006,Ava,Coleman,Female,,Wales,Blue Collar,9-Jan-15,122443.77
+100000007,Dorothy,Thomson,,34,England,Blue Collar,11-Jan-15,42879.84
+100000007,Lisa,Knox,Female,48,Scotland,Other,11-Jan-15,36680.17
+300000009,Ruth,Campbell,Female,,Wales,White Collar,11-Jan-15,74284.35
+300000009,Dominic,Parr,Male,42,England,White Collar,12-Jan-15,10912.45
+100000011,Dominic,Lewis,Male,0,England,White Collar,12-Jan-15,39667.83
+,Benjamin,Grant,Male,39,England,White Collar,12-Jan-15,32281.62
+100000013,,MacDold,Male,24,England,White Collar,12-Jan-15,40781.63
+200000014,Thomas,Lawrence,Male,,Scotland,Other,12-Jan-15,48791.46
+300000015,Madeleine,Marshall,Female,36,Wales,Other,12-Jan-15,2846.03
+100000016,Nicholas,Newman,Male,42,England,White Collar,14-Jan-15,2116.85
+200000017,Grace,Hill,,,Scotland,Other,14-Jan-15,10356.31
+200000018,,Coleman,Female,42,Scotland,Other,14-Jan-15,3801.69
+100000019,William,Ince,Male,40,England,Blue Collar,15-Jan-15,65534.69
+100000020,Audrey,Jones,Female,46,England,Blue Collar,15-Jan-15,11462.64
+300000021,Boris,Johnston,Male,37,Wales,Other,16-Jan-15,31778.9
+200000022,Jason,Butler,,58,Scotland,Blue Collar,18-Jan-15,21252.97
+,Deirdre,McDold,Female,41,Wales,White Collar,18-Jan-15,66785.78
+200000024,,Quinn,Male,,Scotland,Blue Collar,19-Jan-15,6580.81
+100000025,Jennifer,Hughes,Female,38,England,White Collar,20-Jan-15,20505.32
+200000026,Richard,Fraser,Male,55,Scotland,Blue Collar,21-Jan-15,43249.26
+400000027,Rachel,McGrath,Female,37,Northern Ireland,White Collar,23-Jan-15,3967.2
+100000028,Alison,Fisher,Female,33,England,White Collar,25-Jan-15,3428.56
+200000029,Lucas,Mackenzie,Male,50,Scotland,Blue Collar,25-Jan-15,20516.1
+100000030,Luke,Wilkins,Male,42,England,White Collar,27-Jan-15,10813.83
+100000031,Megan,Bell,Female,25,England,White Collar,28-Jan-15,38889.76
+300000032,Warren,Edmunds,Male,30,Wales,White Collar,28-Jan-15,14094.01
+200000033,Grace,Chapman,Female,58,,Other,29-Jan-15,25865.2
+100000034,Jake,Wilson,Male,26,England,Other,30-Jan-15,5833.62
+100000035,Karen,Dyer,Female,34,England,Blue Collar,31-Jan-15,
+100000036,Yvonne,Thomson,Female,36,England,White Collar,31-Jan-15,31680.67
+100000037,Sophie,Gill,Female,33,England,White Collar,31-Jan-15,20504.37
+100000038,Robert,Cornish,Male,31,England,Other,31-Jan-15,5688.36
+200000039,Luke,Martin,Male,,Scotland,Blue Collar,31-Jan-15,12848.59
+200000040,Gavin,Pullman,Male,59,Scotland,Other,31-Jan-15,114456.23
+100000041,Edward,Terry,Male,27,England,Blue Collar,1-Feb-15,51412.6
+100000042,Diane,Black,Female,0,England,White Collar,1-Feb-15,9695.7
+200000043,Jake,Morgan,Male,49,Scotland,,1-Feb-15,114021.21
+400000044,Yvonne,Churchill,Female,22,,Other,1-Feb-15,107728.07
+100000045,Dorothy,Johnston,Female,0,,Other,3-Feb-15,2893.19
+200000046,Lisa,Berry,Female,0,Scotland,Other,3-Feb-15,54589.61
+200000047,Leah,Nolan,Female,,,Other,3-Feb-15,59501.63
+400000048,Carolyn,Lewis,Female,19,Northern Ireland,Other,8-Feb-15,14337.82
+100000049,Simon,Ball,Male,27,England,White Collar,12-Feb-15,23921.89
+100000050,Charles,Nolan,Male,39,England,White Collar,12-Feb-15,39034.14
+100000051,Sophie,Wilkins,Female,29,,Blue Collar,12-Feb-15,1401.43
+100000052,Kimberly,James,Female,31,England,Blue Collar,12-Feb-15,41626.25
+100000053,Madeleine,Ellison,Female,37,England,Other,12-Feb-15,47551.7
+100000054,Irene,MacLeod,Female,32,England,White Collar,12-Feb-15,24187.98
+100000055,Cameron,Taylor,Male,24,England,White Collar,12-Feb-15,4912.21
+100000056,Liam,Gibson,Male,40,England,White Collar,12-Feb-15,58391.45
+100000057,Don,Knox,Female,33,England,,12-Feb-15,58033.89
+100000058,Piers,Morgan,Male,44,England,White Collar,12-Feb-15,35831.2
+100000059,Phil,Randall,Male,39,England,Other,12-Feb-15,1879.85
+100000060,Ryan,White,Male,47,England,White Collar,12-Feb-15,23375.57
+100000061,Kylie,Howard,Female,35,England,White Collar,,4586.23
+100000062,Fio,Bell,Female,47,England,Other,,20336.8
+100000063,Kevin,Gibson,Male,47,England,,12-Feb-15,22414.93
+100000064,Berdette,Gibson,Female,39,England,,12-Feb-15,40305.24
+200000065,Maria,Hughes,Female,50,Scotland,,12-Feb-15,18091.36
+200000066,Piers,Burgess,Male,43,Scotland,Blue Collar,12-Feb-15,20076.8
+200000067,Dan,Ellison,Male,47,Scotland,Blue Collar,12-Feb-15,5300.47
+200000068,Lucas,Piper,Male,61,Scotland,Blue Collar,12-Feb-15,7162.43
+200000069,Jason,Sharp,Male,53,Scotland,Blue Collar,12-Feb-15,35751.37
+200000070,Kevin,Parr,Male,45,Scotland,Other,12-Feb-15,15013.76
+200000071,Dan,Mills,Male,49,Scotland,Blue Collar,12-Feb-15,70041.44
+200000072,Angela,Roberts,Female,51,Scotland,Other,,35937.38
+300000073,Hanh,White,Female,36,,White Collar,12-Feb-15,41442.1
+300000074,Oliver,Simpson,Male,45,Wales,Other,12-Feb-15,36696.92
+400000075,Olivia,Dowd,Female,30,,White Collar,12-Feb-15,21.03
+200000076,Michael,Hemmings,Male,44,Scotland,Blue Collar,24-Feb-15,58237.65
+100000077,Frank,Brown,Male,38,England,White Collar,9-Mar-15,28509.46
+100000078,Diane,Simpson,Female,36,England,Other,10-Mar-15,38715.45
+300000079,Ruth,Mathis,Female,23,Wales,Blue Collar,15-Mar-15,7370.52
+100000080,David,Peters,Male,34,England,White Collar,16-Mar-15,245.46
+100000081,Joan,Buckland,Female,36,England,White Collar,16-Mar-15,59935.75
+100000082,Neil,Robertson,Male,20,England,White Collar,16-Mar-15,11624.36
+100000083,Paul,Mackay,Male,31,England,Blue Collar,16-Mar-15,
+100000084,Dylan,Fraser,Male,42,England,White Collar,16-Mar-15,43770.37
+100000085,Pippa,Buckland,Female,38,England,White Collar,,63642.19
+100000086,Matt,McGrath,Male,39,England,White Collar,16-Mar-15,22831.08
+100000087,Jack,White,Male,41,England,Other,16-Mar-15,4846.57
+100000088,Jasmine,Piper,Female,24,England,White Collar,16-Mar-15,71571.52
+100000089,Michelle,Ellison,Female,24,England,White Collar,16-Mar-15,42409.89
+100000090,Wanda,Henderson,Female,35,England,White Collar,16-Mar-15,4194.57
+100000091,Blake,Reid,Male,35,England,White Collar,,75613.68
+100000092,Jane,Forsyth,Female,26,England,White Collar,16-Mar-15,28587.08
+100000093,Dan,Peake,Male,23,England,White Collar,16-Mar-15,14699.05
+100000094,Lisa,Davies,Female,38,England,Other,,44034.26
+100000095,Rebecca,Knox,Female,30,England,White Collar,16-Mar-15,55046.35
+100000096,Joshua,Slater,Male,28,England,White Collar,16-Mar-15,
+100000097,Heather,Wallace,Female,38,England,Blue Collar,16-Mar-15,61890.85
+100000098,Maria,Johnston,Female,36,England,White Collar,16-Mar-15,1430.6
+200000099,Robert,May,Male,40,Scotland,Blue Collar,16-Mar-15,
+100000249,Brandon,Bower,Male,43,England,White Collar,17-Apr-15,32667.33
