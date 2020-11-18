@@ -1,0 +1,4 @@
+#this notebook will be mainly used for the capstone project.
+import pandas as pd # library for data analsysis
+import numpy as np # library to handle data in a vectorized manner
+print('Hello Capstone Project Course!')
